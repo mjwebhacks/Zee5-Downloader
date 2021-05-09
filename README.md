@@ -10,9 +10,6 @@ If you find any bugs, report at @pro_morningstar
 ### Installation
 
 
-#### Deploy to Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ak3052005/Zee5-Downloader)
 
 #### Run in your VPS
 
